@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Brand Green -->
+    <color name="green_primary">#2E8B57</color>
+    <color name="green_dark">#1B6B3A</color>
+    <color name="green_medium">#3DAA6A</color>
+    <color name="green_light">#E8F5EE</color>
+
+    <!-- Gender -->
+    <color name="blue_male">#1565C0</color>
+    <color name="pink_female">#AD1457</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A2B1F</color>
+    <color name="text_secondary">#6B7C71</color>
+    <color name="text_muted">#9EB3A4</color>
+    <color name="text_hint">#AAAAAA</color>
+
+    <!-- Background -->
+    <color name="bg_page">#F4F7F5</color>
+    <color name="bg_card">#FFFFFF</color>
+
+    <!-- Error -->
+    <color name="error">#C62828</color>
+
+    <!-- System (wajib ada) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

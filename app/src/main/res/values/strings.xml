@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QQMedica</string>
+
+    <!-- Login -->
+    <string name="logo_plus">+</string>
+    <string name="app_title">QQMEDICA</string>
+    <string name="app_subtitle">Dashboard Rumah Sakit QQMedica</string>
+    <string name="welcome_title">Selamat Datang</string>
+    <string name="welcome_subtitle">Silakan masuk ke akun Anda</string>
+    <string name="label_email">EMAIL</string>
+    <string name="hint_email">dokter@rumahsakit.com</string>
+    <string name="label_password">PASSWORD</string>
+    <string name="hint_password">Masukkan password</string>
+    <string name="btn_login">Masuk ke Dashboard</string>
+
+    <!-- Home -->
+    <string name="welcome_greeting">Selamat datang</string>
+    <string name="app_portal">Portal Data Pasien Rumah Sakit</string>
+    <string name="label_total">Total Pasien</string>
+    <string name="label_male">Laki-laki</string>
+    <string name="label_female">Perempuan</string>
+    <string name="label_patient_list">Daftar Pasien</string>
+    <string name="btn_logout">Keluar</string>
+    <string name="loading_text">Memuat data pasien...</string>
+    <string name="empty_text">Belum ada data pasien</string>
+    <string name="btn_retry">Coba Lagi</string>
+
+</resources>
